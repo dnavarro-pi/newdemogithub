@@ -1,0 +1,9 @@
+{
+	"name": "adg-demogit",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ab7412c8-393c-4b41-b931-723b58585103",
+		"tenantId": "ca1d08b0-9543-4bd9-8718-42becddc7786"
+	}
+}
